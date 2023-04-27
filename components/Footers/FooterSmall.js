@@ -20,7 +20,7 @@ export default function FooterSmall(props) {
                   href="https://www.creative-tim.com?ref=nnjs-footer-small"
                   className="text-white hover:text-blueGray-300 text-sm font-semibold py-1"
                 >
-                  Creative Tim
+                  WOWFinstack
                 </a>
               </div>
             </div>
@@ -28,15 +28,15 @@ export default function FooterSmall(props) {
               <ul className="flex flex-wrap list-none md:justify-end  justify-center">
                 <li>
                   <a
-                    href="https://www.creative-tim.com?ref=nnjs-footer-small"
+                    href="https://www.wowfinstack.com/"
                     className="text-white hover:text-blueGray-300 text-sm font-semibold block py-1 px-3"
                   >
-                    Creative Tim
+                    WOWFinstack
                   </a>
                 </li>
                 <li>
                   <a
-                    href="https://www.creative-tim.com/presentation?ref=nnjs-footer-small"
+                    href="https://www.wowfinstack.com/our-story"
                     className="text-white hover:text-blueGray-300 text-sm font-semibold block py-1 px-3"
                   >
                     About Us
@@ -44,20 +44,13 @@ export default function FooterSmall(props) {
                 </li>
                 <li>
                   <a
-                    href="http://blog.creative-tim.com?ref=nnjs-footer-small"
+                    href="https://www.wowfinstack.com/case-studies"
                     className="text-white hover:text-blueGray-300 text-sm font-semibold block py-1 px-3"
                   >
-                    Blog
+                    Case Studies
                   </a>
                 </li>
-                <li>
-                  <a
-                    href="https://github.com/creativetimofficial/notus-nextjs/blob/main/LICENSE.md?ref=nnjs-footer-small"
-                    className="text-white hover:text-blueGray-300 text-sm font-semibold block py-1 px-3"
-                  >
-                    MIT License
-                  </a>
-                </li>
+                
               </ul>
             </div>
           </div>
